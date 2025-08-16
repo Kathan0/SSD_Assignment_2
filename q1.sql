@@ -21,5 +21,3 @@ begin
     
     close subscribersCur;
 end //
-
-call ListAllSubscribers();
